@@ -1,2 +1,2 @@
 # chess.com-municator
-browser extention chess.com media communication with special futures
+chrome extention for chess.com with media communication and special extended futures.
